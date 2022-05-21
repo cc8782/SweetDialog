@@ -1,2 +1,2 @@
-# sweet-custom-dialog
-sweet-custom-dialog
+# custom-dialog
+custom-dialog
